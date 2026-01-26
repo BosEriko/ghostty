@@ -1,6 +1,7 @@
 # general
 mouse-hide-while-typing = true
 title = " "
+confirm-close-surface=false
 
 # ui
 theme = Aura
