@@ -1,7 +1,6 @@
 # general
 mouse-hide-while-typing = true
-title = " "
-confirm-close-surface=false
+macos-titlebar-style = hidden
 
 # ui
 theme = Aura
