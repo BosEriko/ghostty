@@ -5,3 +5,5 @@ macos-titlebar-style = hidden
 
 # ui
 theme = Aura
+background-opacity = 0.85
+background-blur = true
